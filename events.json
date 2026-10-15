@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "18 urodziny",
+    "date": "03.09.2026",
+    "description": "Moje 18 urodziny",
+    "category": "Swieto",
+    "image-url": "https://raw.githubusercontent.com/wikadii/JSON-zadanie/refs/heads/main/images/birthday.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Koncert BMTH",
+    "date": "16.05.2026",
+    "description": "Koncert Bring Me The Horizon",
+    "category": "Wydarzenie",
+    "image-url": "https://raw.githubusercontent.com/wikadii/JSON-zadanie/refs/heads/main/images/koncert.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Wigilia klasowa 2024",
+    "date": "24.12.2024",
+    "description": "Wigilia klasowa z 2024 roku",
+    "category": "Swieto",
+    "image-url": "https://raw.githubusercontent.com/wikadii/JSON-zadanie/refs/heads/main/images/christmas.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Praga",
+    "date": "28.08.2026",
+    "description": "Wyjazd do Pragi",
+    "category": "Wyjazd",
+    "image-url": "https://raw.githubusercontent.com/wikadii/JSON-zadanie/refs/heads/main/images/prague.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Dzien ziemniaka",
+    "date": "18.10.2025",
+    "description": "dzien ziemniaka",
+    "category": "Wydarzenie",
+    "image-url": "https://raw.githubusercontent.com/wikadii/JSON-zadanie/refs/heads/main/images/potato.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Grecja",
+    "date": "19.07.2023",
+    "description": "Wyjazd do Aten",
+    "category": "Wyjazd",
+    "image-ul": "https://raw.githubusercontent.com/wikadii/JSON-zadanie/refs/heads/main/images/athens.jpg"
+  }
+]
